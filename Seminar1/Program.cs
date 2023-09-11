@@ -181,4 +181,29 @@ a = -9 b = -3 -> max = -3*/
 
 
 // }
+//
 
+
+//попробовал чужой код 
+
+
+// Console.WriteLine("Enter number");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int count = 0;
+// if (num % 2 == 0)
+// {
+//     while (num != 0)
+//     {num = num - 2;
+//     Console.WriteLine(num);
+//     }
+// }
+// else
+// {
+//     count = num - 1;
+//     while(count != 0)
+//     {
+//         count = count - 2;
+//         Console.Write(count + " ");
+//     }
+
+// }
