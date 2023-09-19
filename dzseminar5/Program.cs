@@ -20,7 +20,7 @@
 //     for (int i = 0; i < mas.Length; i++)
 //     {
 //         if (mas[i]%2 == 0)
-//         sum++;
+//         sum+=sum;
 //     }
 //     return sum;
 // }
